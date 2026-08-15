@@ -1,4 +1,4 @@
-Supervised Learning
+## Supervised Learning
 
 
 
@@ -17,7 +17,7 @@ Supervised Learning
 ● Support Vector Machine (SVM) – Maximizing margin classifiers for complex datasets.
 
 
-Home-Based Projects
+## Home-Based Projects
 
 ● Churn Prediction – Predict customer attrition using real-world datasets.
 
@@ -28,17 +28,17 @@ Home-Based Projects
 ● HR Attrition Prediction – Predict employee turnover using historical HR data.
 
 
-Feature Engineering
+## Feature Engineering
 
 Techniques to create, transform, and select meaningful features to improve model performance.
 
 
-ML Pipeline
+## ML Pipeline
 
 Understanding the end-to-end machine learning workflow from data collection to model deployment.
 
 
-Class-Based Projects
+## Class-Based Projects
 
 ● House Price Prediction – Predict housing prices using regression algorithms.
 
@@ -49,6 +49,6 @@ Class-Based Projects
 ● Fraud Detection Model – Detect fraudulent transactions using classification techniques.
 
 
-Data Preprocessing
+## Data Preprocessing
 
 Handling missing values, encoding categorical variables, and scaling features for modeling.
