@@ -16,7 +16,7 @@
 
 ● Support Vector Machine (SVM) – Maximizing margin classifiers for complex datasets.
 
-
+<!--
 ## Home-Based Projects
 
 ● Churn Prediction – Predict customer attrition using real-world datasets.
@@ -26,7 +26,7 @@
 ● Credit Risk Scoring Model – Assess the creditworthiness of clients using predictive modeling.
 
 ● HR Attrition Prediction – Predict employee turnover using historical HR data.
-
+-->
 
 ## Feature Engineering
 
