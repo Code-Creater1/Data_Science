@@ -1,6 +1,6 @@
 # 📊 Data Science & Machine Learning
 
-A practical collection of **Data Science, Data Analysis, and Machine Learning projects** built with Python. This repository demonstrates the complete data science workflow — from data preprocessing and exploratory data analysis to feature engineering, model training, evaluation, and prediction.
+A practical collection of **Data Science, Data Analysis, and Machine Learning projects** built with Python. This repository demonstrates the complete data science workflow from data preprocessing and exploratory data analysis to feature engineering, model training, evaluation, and prediction.
 
 The projects cover both **supervised and unsupervised learning**, along with real-world datasets from areas such as business analytics, healthcare, finance, housing, and education.
 
