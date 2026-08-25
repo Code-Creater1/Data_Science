@@ -1,4 +1,4 @@
-# 📊 Data Science & Machine Learning Portfolio
+# 📊 Data Science & Machine Learning
 
 A practical collection of **Data Science, Data Analysis, and Machine Learning projects** built with Python. This repository demonstrates the complete data science workflow — from data preprocessing and exploratory data analysis to feature engineering, model training, evaluation, and prediction.
 
