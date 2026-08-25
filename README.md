@@ -11,7 +11,7 @@ The projects cover both **supervised and unsupervised learning**, along with rea
 This repository is a continuously evolving collection of my work and learning in:
 
 * 🐍 Python for Data Science
-* 📊 Exploratory Data Analysis (EDA) ![Business Data Analysis](images/business-analysis.png)
+* 📊 Exploratory Data Analysis (EDA)
 * 🧹 Data Cleaning & Preprocessing
 * 📈 Data Visualization
 * ⚙️ Feature Engineering
