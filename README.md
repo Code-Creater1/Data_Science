@@ -55,8 +55,7 @@ This repository documents my journey from **data preprocessing and EDA → machi
 * Logistic Regression
 * Decision Tree
 * Random Forest
-* KNN
-* SVM
+* KNN, SVM
 * Gradient Boosting
 * XGBoost / LightGBM
 * Artificial Neural Networks
@@ -71,9 +70,8 @@ This repository documents my journey from **data preprocessing and EDA → machi
 * Missing-value handling
 * Encoding
 * Feature scaling
-* Feature selection
-* Feature transformation
-* Train/Test splitting
+* Feature selection / transformation
+* Train/Test split
 
 ---
 
