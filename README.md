@@ -30,141 +30,14 @@ This repository documents my journey from **data preprocessing and EDA → machi
 `Feature Engineering` · `Regression` · `Classification` · `ANN / Deep Learning`
 `Model Evaluation` · `Predictive Modeling` · `FastAPI` · `Streamlit`
 
----
 
-# 🧠 My Data Science Workflow
+### 🧠 My Data Science Workflow
 
-```mermaid
-flowchart LR
-    A[Raw Dataset] --> B[Data Cleaning]
-    B --> C[EDA & Visualization]
-    C --> D[Feature Engineering]
-    D --> E[Train / Test Split]
-    E --> F[Model Training]
-    F --> G[Evaluation]
-    G --> H[Prediction]
-    H --> I[Deployment]
-```
 
 **Data → Insight → Model → Prediction → Application**
 
 ---
 
-# ⭐ Featured Projects
-
-## 🏠 House Price Prediction
-
-**Regression | Python | Scikit-learn | FastAPI**
-
-Predict house prices using property-related features.
-
-**Worked on:**
-
-* Data preprocessing
-* Exploratory Data Analysis
-* Feature preparation
-* Regression modeling
-* Model evaluation
-* Prediction API
-
-**Focus:** Turning historical housing data into a predictive ML solution.
-
----
-
-## 💳 Credit Card Fraud Detection
-
-**Classification | Neural Networks | TensorFlow**
-
-A fraud detection project focused on identifying potentially fraudulent transactions.
-
-**Worked on:**
-
-* Imbalanced dataset handling
-* Data preprocessing
-* Feature preparation
-* Artificial Neural Network
-* Accuracy / Precision / Recall
-* ROC-AUC & PR-AUC
-* Model evaluation
-
-> Focused on the challenge of detecting rare fraudulent transactions rather than relying only on accuracy.
-
----
-
-## ❤️ Heart Failure Prediction
-
-**Classification | Scikit-learn**
-
-Predict heart failure outcomes using patient-related features.
-
-**Models explored:**
-
-`Logistic Regression` · `Decision Tree` · `Random Forest`
-
-**Skills demonstrated:**
-
-* Data cleaning
-* EDA
-* Feature preparation
-* Classification
-* Confusion matrix
-* Precision / Recall
-* Model comparison
-
----
-
-## 🫀 Framingham Heart Disease Prediction
-
-**Classification | Machine Learning**
-
-A predictive model based on the Framingham dataset to investigate cardiovascular risk.
-
-**Workflow:**
-
-`Data Cleaning → Feature Engineering → Model Training → Evaluation → Prediction`
-
-Focus areas include:
-
-* Missing-value handling
-* Feature selection
-* Classification
-* Model comparison
-* Evaluation metrics
-
----
-
-## 🎓 Student Performance Prediction
-
-**Regression | Python | Machine Learning**
-
-Predict student performance using academic and relevant student features.
-
-**Worked on:**
-
-* Data preprocessing
-* Feature selection
-* Regression
-* Prediction
-* Model evaluation
-
----
-
-## 📊 Business Data Analysis
-
-**EDA | Pandas | Matplotlib | Seaborn**
-
-Exploring business datasets to discover patterns and actionable insights.
-
-### Analysis includes
-
-* 📦 Product performance
-* 👥 Customer behavior
-* 💰 Sales patterns
-* 📈 Trends
-* 🔎 Data exploration
-* 📊 Visual analytics
-
----
 
 # 📈 Machine Learning Skills
 
@@ -174,9 +47,7 @@ Exploring business datasets to discover patterns and actionable insights.
 * Regression-based prediction
 * House Price Prediction
 * Student Performance Prediction
-* MAE
-* MSE
-* RMSE
+* MAE, MSE, RMSE
 * R² Score
 
 ### Classification
@@ -278,35 +149,13 @@ For problems such as **fraud detection**, precision, recall, ROC-AUC and especia
 | **Machine Learning** | Scikit-learn, XGBoost, LightGBM |
 | **Deep Learning**    | TensorFlow, PyTorch             |
 | **Deployment**       | FastAPI, Streamlit              |
-| **Development**      | Jupyter Notebook, VS Code       |
+| **Development**      | Jupyter Notebook, Colab, Kaggle |
 | **Version Control**  | Git, GitHub                     |
 
 ---
 
-# 📂 Repository Structure
 
-```text
-Data_Science/
-│
-├── 📁 Data_Analysis/
-├── 📁 Machine_Learning/
-├── 📁 Deep_Learning/
-├── 📁 Datasets/
-├── 📁 FastAPI/
-├── 📁 Streamlit/
-│
-├── 🏠 House_Price_Prediction
-├── 🎓 Student_Performance
-├── ❤️ Heart_Failure
-├── 🫀 Framingham
-├── 💳 Fraud_Detection
-│
-└── README.md
-```
-
----
-
-# 🎯 What I'm Building Next
+# What I'm Building Next
 
 My next step is moving from **individual ML notebooks toward production-ready AI applications**.
 
@@ -321,21 +170,6 @@ My next step is moving from **individual ML notebooks toward production-ready AI
 → `AI Applications`
 → `MLOps`
 
-Planned work includes:
-
-* Advanced feature engineering
-* Hyperparameter tuning
-* Cross-validation
-* Ensemble models
-* Deep Learning
-* NLP
-* Computer Vision
-* LLM applications
-* REST APIs
-* Streamlit dashboards
-* Model deployment
-* MLOps & monitoring
-
 ---
 
 # 📊 Project Progress
@@ -345,9 +179,9 @@ Planned work includes:
 | 🐍 Python           | ██████████ |
 | 📊 Data Analysis    | █████████░ |
 | 🤖 Machine Learning | ████████░░ |
-| 🧠 Deep Learning    | ██████░░░░ |
-| 🚀 Deployment       | █████░░░░░ |
-| 🤖 AI / LLM         | ████░░░░░░ |
+| 🧠 Deep Learning    | ████████░░ |
+| 🚀 Deployment       | ███████░░░ |
+| 🤖 AI / LLM         | ██████░░░░ |
 
 > **The goal isn't just to train models — it's to build useful systems around them.**
 
